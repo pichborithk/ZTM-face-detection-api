@@ -19,8 +19,8 @@ This is the Back-End for the final project of the Zero to Mastery: Web Developer
 
 In order to run this backend, you will need to have the following installed on your local machine:
 
-- Node.js: You can download the latest version of Node.js from the official website.
-- PostgreSQL: You can download the latest version of PostgreSQL from the official website.
+- Node.js: You can download the latest version of Node.js from https://nodejs.org/en/
+- PostgreSQL: You can download the latest version of PostgreSQL from https://www.postgresql.org/download/
 
 You will also need to create a PostgreSQL database.
 
